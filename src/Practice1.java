@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class Practice1 {
+public class Practice1 {
+    // step 1
 }
